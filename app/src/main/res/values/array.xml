@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_sort_by_array">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+
+    <string-array name="pref_list_type_options">
+        <item>@string/pref_list_type_label_popular</item>
+        <item>@string/pref_list_type_label_top_rate</item>
+        <item>@string/pref_list_type_label_favorite</item>
+    </string-array>
+
+    <string-array name="pref_list_type_values">
+        <item>@string/pref_list_type_popular</item>
+        <item>@string/pref_list_type_top_rate</item>
+        <item>@string/pref_list_type_favorite</item>
+    </string-array>
+</resources>

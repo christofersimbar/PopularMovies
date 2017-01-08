@@ -1,0 +1,32 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Popular Movies</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="poster_image_content_desc">Poster Image</string>
+
+    <string name="pref_list_type_label_popular">Popular</string>
+    <string name="pref_list_type_label_top_rate">Top Rated</string>
+    <string name="pref_list_type_label_favorite">Favorite</string>
+
+    <string name="pref_list_type_popular">popular</string>
+    <string name="pref_list_type_top_rate">top_rated</string>
+    <string name="pref_list_type_favorite">favorite</string>
+
+    <string name="pref_list_type_label">Display Movie by</string>
+    <string name="pref_list_type_key">criteria</string>
+    <string name="pref_list_type_default">popular</string>
+
+    <!-- Account type (for sync-adapter authenticator) -->
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">popularmovies.cdmsoftware.net</string>
+    <string name="content_authority">net.cdmsoftware.popularmovies</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="description_backdrop_image">Backdrop Image</string>
+    <string name="description_trailer_image">Trailer Image</string>
+    <string name="label_rating">Rating: <xliff:g id="average_vote" example="4.5">%s</xliff:g></string>
+</resources>
